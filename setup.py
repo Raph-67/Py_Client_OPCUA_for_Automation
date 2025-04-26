@@ -28,7 +28,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Raphaël Hecker",
-    url="https://github.com/A_COMPLETER",
+    url="https://github.com/Raph-67/Py_Client_OPCUA_for_Automation.git",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
