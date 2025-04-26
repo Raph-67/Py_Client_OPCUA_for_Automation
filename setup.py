@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="opcuaAutomation",
     version="1.0.0",
-    packages=find_packages(),  # Utilisation de find_packages()
+    packages=find_packages(),
     include_package_data=True,
     install_requires=[
         "opcua==0.98.13",
