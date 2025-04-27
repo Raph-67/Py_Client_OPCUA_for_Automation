@@ -13,6 +13,12 @@ Float
 String
 
 ## Installation
-1. Clone the repository:
+1. Type on your shell
+   pip install opcuaAutomation
+
+## Re-Use
+1. Fork on github
+
+2. Clone the repository:
    ```bash
    git clone https://github.com/Raph-67/Py_Client_OPCUA_for_Automation.git
