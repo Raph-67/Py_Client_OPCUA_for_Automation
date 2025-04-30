@@ -1,3 +1,4 @@
-from opcuaAutomation import client_OPC_UA
-from opcuaAutomation import resultsObjects
-from opcuaAutomation import uaDataType
+
+from .client_OPC_UA import client_OPC_UA
+from .resultsObjects import OpcuaConnectResult, OpcuaReadResult, OpcuaWriteResult
+from .uaDataType import getVariantType
